@@ -11364,7 +11364,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid #752b71;
+    border: 0.5rem solid #e8d313;
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -11400,7 +11400,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #e8d313;
 }
 
 .dev-icons {
