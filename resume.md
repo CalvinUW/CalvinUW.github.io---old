@@ -57,6 +57,13 @@ At The University of Texas at Austin I was in charge of supporting senior GIS an
 - Helped to refine the data of a map showing the areas in Texas threatened by sea-level rise.
 
 
+# Education
+
+## B.A. in Geographic Data Science - University of Washington (Class of 2023)
+- #### 3.98 GPA
+
+![](https://images.unsplash.com/photo-1661564585175-3f1630e151c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+
 [University 1]: http://www.UW.edu
 [University 2]: http://www.UCLA.edu
 [University 3]: https://www.utexas.edu
