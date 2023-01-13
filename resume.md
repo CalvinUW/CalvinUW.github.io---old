@@ -1,9 +1,9 @@
 # Calvin Standaert
 ![](https://img.freepik.com/free-photo/business-concept-smiling-thoughtful-handsome-man-standing-white-isolated-background-touching-his-chin-with-hand_1258-80750.jpg?w=996&t=st=1673054775~exp=1673055375~hmac=528f6d6bee05a6bab243b31c145e748b15c4d7be2f05e41b653eeb1161786f61)
 
-[Email](Calvin.Standaert@gmail.com)
+[Email](mailto:Calvin.Standaert@gmail.com)
 
-[Website](http://www.CalvinStandaert.com)
+[Website](https://calvinuw.github.io/)
 
 [LinkedIn](http://www.linkedin.com/in/CalvinStandaert)
 
